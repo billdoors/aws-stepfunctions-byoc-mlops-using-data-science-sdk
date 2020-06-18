@@ -1,3 +1,7 @@
+# Project co-developped by Qingwei Li, Stefan Natu, Shreyas Subramanian.
+
+
+
 # Build, Train and Deploy your own Mask R-CNN container to Amazon SageMaker using AWS StepFunctions Data Science SDK. 
 
 ![](media/workflow.png)
